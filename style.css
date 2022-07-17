@@ -70,6 +70,10 @@ body {
   background-color: black;
 }
 
+.italian.hover {
+  opacity: 30%
+}
+
 /* Typography */
 h1 {
   color: #41292C;
